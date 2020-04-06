@@ -1,0 +1,14 @@
+-tạo 1 danh sách liên kết rỗng
+-Tạo 1 nút có trường info bằng X
+-Thêm 1 phần tử có khóa x vào danh sách 
+- Duyệt Danh sách
+- Hủy một phần tử trong danh sách
+
+
+
+- Thêm vào đầu danh sách add_head
+
+	input:
+l		ist l;
+		node * p;
+ tail =x;

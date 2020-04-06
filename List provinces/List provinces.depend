@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586145337 source:d:\data structures and algorithms\list provinces\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+
